@@ -14,7 +14,7 @@ body {
 
 .banner {
     height: 100vh;
-    background-image: url("./images/apple-pie.jpg");
+    background-image: url("../images/apple-pie.jpg");
 }
 
 section {
